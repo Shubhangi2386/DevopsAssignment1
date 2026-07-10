@@ -20,6 +20,7 @@ namespace DevopsAssignment1.Controllers
 
         public IActionResult Privacy()
         {
+            //test
             return View();
         }
 
