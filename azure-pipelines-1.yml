@@ -80,7 +80,7 @@ stages:
 
             inputs:
 
-              azureSubscription: 'WP_Subscription_0181'
+              azureSubscription: 'WebAppDeploySubscription'
               appType: 'webApp'
               appName: 'Devopswebapp'
 
